@@ -1,1 +1,14 @@
 I:\!_MASTER_!\СЕМЕСТР 2_шанс2\ТРПО_Сосинская\Лабы\Лаба3\CodeFirstKaro\CodeFirstKaro\bin\Debug\CodeFirstKaro.exe.config
+I:\!_MASTER_!\SEMESTR3_v2\TRPO_1karo\lab3\CodeFirstKaro\CodeFirstKaro\bin\Debug\CodeFirstKaro.exe.config
+I:\!_MASTER_!\SEMESTR3_v2\TRPO_1karo\lab3\CodeFirstKaro\CodeFirstKaro\bin\Debug\CodeFirstKaro.exe
+I:\!_MASTER_!\SEMESTR3_v2\TRPO_1karo\lab3\CodeFirstKaro\CodeFirstKaro\bin\Debug\CodeFirstKaro.pdb
+I:\!_MASTER_!\SEMESTR3_v2\TRPO_1karo\lab3\CodeFirstKaro\CodeFirstKaro\bin\Debug\EntityFramework.dll
+I:\!_MASTER_!\SEMESTR3_v2\TRPO_1karo\lab3\CodeFirstKaro\CodeFirstKaro\bin\Debug\EntityFramework.SqlServer.dll
+I:\!_MASTER_!\SEMESTR3_v2\TRPO_1karo\lab3\CodeFirstKaro\CodeFirstKaro\bin\Debug\EntityFramework.xml
+I:\!_MASTER_!\SEMESTR3_v2\TRPO_1karo\lab3\CodeFirstKaro\CodeFirstKaro\bin\Debug\EntityFramework.SqlServer.xml
+I:\!_MASTER_!\SEMESTR3_v2\TRPO_1karo\lab3\CodeFirstKaro\CodeFirstKaro\obj\Debug\CodeFirstKaro.csprojResolveAssemblyReference.cache
+I:\!_MASTER_!\SEMESTR3_v2\TRPO_1karo\lab3\CodeFirstKaro\CodeFirstKaro\obj\Debug\CodeFirstKaro.Properties.Resources.resources
+I:\!_MASTER_!\SEMESTR3_v2\TRPO_1karo\lab3\CodeFirstKaro\CodeFirstKaro\obj\Debug\CodeFirstKaro.csproj.GenerateResource.Cache
+I:\!_MASTER_!\SEMESTR3_v2\TRPO_1karo\lab3\CodeFirstKaro\CodeFirstKaro\obj\Debug\CodeFirstKaro.exe
+I:\!_MASTER_!\SEMESTR3_v2\TRPO_1karo\lab3\CodeFirstKaro\CodeFirstKaro\obj\Debug\CodeFirstKaro.pdb
+I:\!_MASTER_!\SEMESTR3_v2\TRPO_1karo\lab3\CodeFirstKaro\CodeFirstKaro\obj\Debug\CodeFirstKaro.Form1.resources
