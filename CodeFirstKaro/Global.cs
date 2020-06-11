@@ -111,6 +111,23 @@ namespace CodeFirstKaro
             }
         }
 
+        public List<String> getStoreInfo()
+        {
+            var storesInfo = (from s in stores  select s.info()).ToList();
+            return storesInfo;
+        }
+        public List<String> getProductsInfo()
+        {
+            var productsInfo = (from s in products select s.info()).ToList();
+            return productsInfo;
+        }
+
+        public List<String> getProductsInStoreInfo()
+        {
+            var productsInStoreInfo = (from s in productsInStore select s.info()).ToList();
+            return productsInStoreInfo;
+        }
+
     }
         
 }
